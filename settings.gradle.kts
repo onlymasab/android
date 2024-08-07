@@ -30,4 +30,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "android"
 include("app")
-include("web")
